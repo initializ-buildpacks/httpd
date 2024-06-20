@@ -6,7 +6,7 @@ on:
     - main
 
 concurrency:
-  # only one instance of test suite per PR at one time -
+  # only one instance of test suite per PR at one time
   group: pr-${{ github.event.number }}
   cancel-in-progress: true
 
