@@ -7,9 +7,6 @@ subsequent buildpacks, and sets up the start command which signals httpd to star
 A usage example can be found in the
 [`samples` repository under the `httpd` directory](https://github.com/paketo-buildpacks/samples/tree/main/httpd).
 
-#### The HTTPD buildpack is compatible with the following builder(s):
-- [Paketo Full Builder](https://github.com/paketo-buildpacks/full-builder)
-
 ## Integration
 
 The Apache HTTPD CNB provides httpd as a dependency. Downstream buildpacks, like
