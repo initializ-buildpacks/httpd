@@ -2,10 +2,10 @@ api = "0.7"
 
 [buildpack]
   description = "A buildpack for installing the appropriate Apache HTTPD server"
-  homepage = "https://github.com/paketo-buildpacks/httpd"
-  id = "paketo-buildpacks/httpd"
+  homepage = "https://github.com/initializ-buildpacks/httpd"
+  id = "initializ-buildpacks/httpd"
   keywords = ["apache", "httpd", "server", "distribution"]
-  name = "Paketo Buildpack for Apache HTTP Server"
+  name = "Initializ Buildpack for Apache HTTP Server"
   sbom-formats = ["application/vnd.cyclonedx+json", "application/spdx+json", "application/vnd.syft+json"]
 
 [metadata]

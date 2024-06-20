@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/httpd
+module github.com/initializ-buildpacks/httpd
 
 go 1.21
 

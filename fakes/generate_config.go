@@ -3,7 +3,7 @@ package fakes
 import (
 	"sync"
 
-	"github.com/paketo-buildpacks/httpd"
+	"github.com/initializ-buildpacks/httpd"
 )
 
 type GenerateConfig struct {

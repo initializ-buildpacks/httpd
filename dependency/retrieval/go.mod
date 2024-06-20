@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/httpd/retrieval
+module github.com/initializ-buildpacks/httpd/retrieval
 
 go 1.18
 

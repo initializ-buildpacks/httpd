@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/paketo-buildpacks/httpd"
+	"github.com/initializ-buildpacks/httpd"
 
 	"github.com/caarlos0/env/v6"
 	"github.com/paketo-buildpacks/packit/v2"

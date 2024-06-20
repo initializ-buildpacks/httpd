@@ -1,3 +1,4 @@
+# sync
 name: Synchronize Labels
 "on":
     push:

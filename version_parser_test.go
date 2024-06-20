@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/paketo-buildpacks/httpd"
+	"github.com/initializ-buildpacks/httpd"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"
