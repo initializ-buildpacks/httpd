@@ -70,4 +70,4 @@ api = "0.7"
     patches = 2
 
 [[stacks]]
-  id = "*"
+  id = "Initializ Distroless Stack"
