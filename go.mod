@@ -1,8 +1,6 @@
 module github.com/initializ-buildpacks/httpd
 
-go 1.22
-
-toolchain go1.22.4
+go 1.22.4
 
 require (
 	github.com/BurntSushi/toml v1.3.2
