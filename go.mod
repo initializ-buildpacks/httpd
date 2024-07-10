@@ -2,6 +2,8 @@ module github.com/initializ-buildpacks/httpd
 
 go 1.22.4
 
+toolchain go1.22.5
+
 require (
 	github.com/BurntSushi/toml v1.3.2
 	github.com/Masterminds/semver v1.5.0
