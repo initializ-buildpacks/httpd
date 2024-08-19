@@ -14,7 +14,7 @@ require (
 )
 
 require (
-	dario.cat/mergo v1.0.0 // indirect
+	dario.cat/mergo v1.0.1 // indirect
 	github.com/Azure/go-ansiterm v0.0.0-20230124172434-306776ec8161 // indirect
 	github.com/CycloneDX/cyclonedx-go v0.7.2 // indirect
 	github.com/DataDog/zstd v1.5.6 // indirect
