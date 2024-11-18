@@ -13,56 +13,56 @@ api = "0.7"
   pre-package = "./scripts/build.sh"
 
   [[metadata.dependencies]]
-    checksum = "sha256:b8899b5efe70f0e8215bbcfc8af20aff7480fcc837588ec67384fb6387d1f48f"
-    cpe = "cpe:2.3:a:apache:http_server:2.4.57:*:*:*:*:*:*:*"
+    checksum = "sha256:874ad77597c7167a858e66736cbadcc2c77524aaecd92bf44e2604bf375f4c7e"
+    cpe = "cpe:2.3:a:apache:http_server:2.4.61:*:*:*:*:*:*:*"
     id = "httpd"
     licenses = ["Apache-2.0", "BSD-3-Clause", "Beerware", "RSA-MD", "SHL-0.5", "SHL-0.51", "Spencer-94"]
     name = "Apache HTTP Server"
-    purl = "pkg:generic/httpd@2.4.57?checksum=dbccb84aee95e095edfbb81e5eb926ccd24e6ada55dcd83caecb262e5cf94d2a&download_url=http://archive.apache.org/dist/httpd/httpd-2.4.57.tar.bz2"
-    source = "http://archive.apache.org/dist/httpd/httpd-2.4.57.tar.bz2"
-    source-checksum = "sha256:dbccb84aee95e095edfbb81e5eb926ccd24e6ada55dcd83caecb262e5cf94d2a"
+    purl = "pkg:generic/httpd@2.4.61?checksum=ea8ba86fd95bd594d15e46d25ac5bbda82ae0c9122ad93998cc539c133eaceb6&download_url=http://archive.apache.org/dist/httpd/httpd-2.4.61.tar.bz2"
+    source = "http://archive.apache.org/dist/httpd/httpd-2.4.61.tar.bz2"
+    source-checksum = "sha256:ea8ba86fd95bd594d15e46d25ac5bbda82ae0c9122ad93998cc539c133eaceb6"
     stacks = ["Initializ Distroless Stack"]
-    uri = "https://artifacts.paketo.io/httpd/httpd_2.4.57_linux_x64_bionic_b8899b5e.tgz"
-    version = "2.4.57"
+    uri = "https://artifacts.paketo.io/httpd/httpd_2.4.61_linux_x64_bionic_874ad775.tgz"
+    version = "2.4.61"
 
   [[metadata.dependencies]]
-    checksum = "sha256:c06453d3d4a9d53bab9a0e4894c491255ff5fb1c905943b4c327f7f8dd4f4fc1"
-    cpe = "cpe:2.3:a:apache:http_server:2.4.57:*:*:*:*:*:*:*"
+    checksum = "sha256:513741c17f9fe67af880285e810ea6076ee1ef97f3c9896b2e56045fcc0bebc8"
+    cpe = "cpe:2.3:a:apache:http_server:2.4.61:*:*:*:*:*:*:*"
     id = "httpd"
     licenses = ["Apache-2.0", "BSD-3-Clause", "Beerware", "RSA-MD", "SHL-0.5", "SHL-0.51", "Spencer-94"]
     name = "Apache HTTP Server"
-    purl = "pkg:generic/httpd@2.4.57?checksum=dbccb84aee95e095edfbb81e5eb926ccd24e6ada55dcd83caecb262e5cf94d2a&download_url=http://archive.apache.org/dist/httpd/httpd-2.4.57.tar.bz2"
-    source = "http://archive.apache.org/dist/httpd/httpd-2.4.57.tar.bz2"
-    source-checksum = "sha256:dbccb84aee95e095edfbb81e5eb926ccd24e6ada55dcd83caecb262e5cf94d2a"
+    purl = "pkg:generic/httpd@2.4.61?checksum=ea8ba86fd95bd594d15e46d25ac5bbda82ae0c9122ad93998cc539c133eaceb6&download_url=http://archive.apache.org/dist/httpd/httpd-2.4.61.tar.bz2"
+    source = "http://archive.apache.org/dist/httpd/httpd-2.4.61.tar.bz2"
+    source-checksum = "sha256:ea8ba86fd95bd594d15e46d25ac5bbda82ae0c9122ad93998cc539c133eaceb6"
     stacks = ["Initializ Distroless Stack"]
-    uri = "https://artifacts.paketo.io/httpd/httpd_2.4.57_linux_x64_jammy_c06453d3.tgz"
-    version = "2.4.57"
+    uri = "https://artifacts.paketo.io/httpd/httpd_2.4.61_linux_x64_jammy_513741c1.tgz"
+    version = "2.4.61"
 
   [[metadata.dependencies]]
-    checksum = "sha256:a454901fdf465add23ce10debb3711feb3d64ecec6d267571185e88582fe78de"
-    cpe = "cpe:2.3:a:apache:http_server:2.4.58:*:*:*:*:*:*:*"
+    checksum = "sha256:4e08fd67869b5bb95366fb977ea1b712d4c6f177e950d1adb27d782666d9a6c8"
+    cpe = "cpe:2.3:a:apache:http_server:2.4.62:*:*:*:*:*:*:*"
     id = "httpd"
     licenses = ["Apache-2.0", "BSD-3-Clause", "Beerware", "RSA-MD", "SHL-0.5", "SHL-0.51", "Spencer-94"]
     name = "Apache HTTP Server"
-    purl = "pkg:generic/httpd@2.4.58?checksum=fa16d72a078210a54c47dd5bef2f8b9b8a01d94909a51453956b3ec6442ea4c5&download_url=http://archive.apache.org/dist/httpd/httpd-2.4.58.tar.bz2"
-    source = "http://archive.apache.org/dist/httpd/httpd-2.4.58.tar.bz2"
-    source-checksum = "sha256:fa16d72a078210a54c47dd5bef2f8b9b8a01d94909a51453956b3ec6442ea4c5"
+    purl = "pkg:generic/httpd@2.4.62?checksum=674188e7bf44ced82da8db522da946849e22080d73d16c93f7f4df89e25729ec&download_url=http://archive.apache.org/dist/httpd/httpd-2.4.62.tar.bz2"
+    source = "http://archive.apache.org/dist/httpd/httpd-2.4.62.tar.bz2"
+    source-checksum = "sha256:674188e7bf44ced82da8db522da946849e22080d73d16c93f7f4df89e25729ec"
     stacks = ["Initializ Distroless Stack"]
-    uri = "https://artifacts.paketo.io/httpd/httpd_2.4.58_linux_x64_bionic_a454901f.tgz"
-    version = "2.4.58"
+    uri = "https://artifacts.paketo.io/httpd/httpd_2.4.62_linux_x64_bionic_4e08fd67.tgz"
+    version = "2.4.62"
 
   [[metadata.dependencies]]
-    checksum = "sha256:59ad1bc2087bd8c829198475f92f1d0f47ba7234a08d77e2a027f8228cace7a4"
-    cpe = "cpe:2.3:a:apache:http_server:2.4.58:*:*:*:*:*:*:*"
+    checksum = "sha256:074b23b032cdfce05d7a12beba63a2a1a53a8a3dfa9f0549c6616b52e63e1b38"
+    cpe = "cpe:2.3:a:apache:http_server:2.4.62:*:*:*:*:*:*:*"
     id = "httpd"
     licenses = ["Apache-2.0", "BSD-3-Clause", "Beerware", "RSA-MD", "SHL-0.5", "SHL-0.51", "Spencer-94"]
     name = "Apache HTTP Server"
-    purl = "pkg:generic/httpd@2.4.58?checksum=fa16d72a078210a54c47dd5bef2f8b9b8a01d94909a51453956b3ec6442ea4c5&download_url=http://archive.apache.org/dist/httpd/httpd-2.4.58.tar.bz2"
-    source = "http://archive.apache.org/dist/httpd/httpd-2.4.58.tar.bz2"
-    source-checksum = "sha256:fa16d72a078210a54c47dd5bef2f8b9b8a01d94909a51453956b3ec6442ea4c5"
+    purl = "pkg:generic/httpd@2.4.62?checksum=674188e7bf44ced82da8db522da946849e22080d73d16c93f7f4df89e25729ec&download_url=http://archive.apache.org/dist/httpd/httpd-2.4.62.tar.bz2"
+    source = "http://archive.apache.org/dist/httpd/httpd-2.4.62.tar.bz2"
+    source-checksum = "sha256:674188e7bf44ced82da8db522da946849e22080d73d16c93f7f4df89e25729ec"
     stacks = ["Initializ Distroless Stack"]
-    uri = "https://artifacts.paketo.io/httpd/httpd_2.4.58_linux_x64_jammy_59ad1bc2.tgz"
-    version = "2.4.58"
+    uri = "https://artifacts.paketo.io/httpd/httpd_2.4.62_linux_x64_jammy_074b23b0.tgz"
+    version = "2.4.62"
 
   [[metadata.dependency-constraints]]
     constraint = "*"
